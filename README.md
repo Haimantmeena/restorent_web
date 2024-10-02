@@ -51,8 +51,3 @@ PHP
 MySQL
 Contributing
 
-Contributions are welcome! If you would like to contribute to this project, please fork the repository, make your changes, and submit a pull request.
-
-License
-This project is licensed under the MIT License.
-
