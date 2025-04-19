@@ -1,4 +1,4 @@
-(HAIMANT MEENA, ASHWANI KUMAR )
+(HAIMANT MEENA)
 Restaurant Website
 
 Introduction
